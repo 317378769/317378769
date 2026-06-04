@@ -1,6 +1,6 @@
 # Hi 👋, I'm ll
 
-### A passionate developer from around the world
+### A passionate developer from China
 
 - 🌱 I'm currently learning **am currently focusing my learning on Data Engineering and modern database architectures.**
 
