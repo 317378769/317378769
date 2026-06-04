@@ -2,7 +2,7 @@
 
 ### A passionate developer from China
 
-- 🌱 I'm currently learning **am currently focusing my learning on Data Engineering and modern database architectures.**
+- 🌱 **I am currently focusing my learning on Data Engineering and modern database architectures.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
